@@ -110,3 +110,8 @@ form .user-details .input-box{
     max-height: 300px;
     overflow-y: scroll;
 }
+
+.required:after {
+  content:" *"; 
+  color: red;
+}
