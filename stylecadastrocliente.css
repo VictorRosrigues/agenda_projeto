@@ -111,7 +111,7 @@ form .user-details .input-box{
     overflow-y: scroll;
 }
 
-.required:after {
-  content:"*"; 
+.required: after {
+  content: "*"; 
   color: red;
 }
