@@ -112,6 +112,6 @@ form .user-details .input-box{
 }
 
 .required:after {
-  content:" *"; 
+  content:"*"; 
   color: red;
 }
